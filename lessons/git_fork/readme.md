@@ -45,6 +45,8 @@ When viewing an individual file in your forked repository on GitHub, you will an
 
 After you've edited the file, you need to _commit_ your changes to make them permanent. At the bottom of the page you can add a _commit message_ describing your changes and then click the green "Commit changes" button.
 
+This is my edit.
+
 ![commit](https://github.com/vaughnparker/dsp/blob/master/img/commit_file.png)
 
 You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit. Commit incrementally!
